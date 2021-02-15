@@ -12,8 +12,12 @@
   - Refer to 'readme' and 'Protocol.pdf' for more details on the program.
   
 # Procedure (mac, linux)
-  - Modify 'Input.txt' to indicate a cadnano design file and options.
-  - Execute SNUPI as ./run_SNUPI.sh <matlab_runtime_directory>
+  - Modify 'Input.txt' in the FILE folder to indicate a design file.
+  - In the 'Input.txt' file, <lattice_type> and <file_directory> should be written.
+  - To give a permission to execute,
+	    chmod +x *
+  - Execute SNUPI in the FILE folder
+	    ./run_SNUPI.sh <matlab_runtime_directory>
   - Analyze the results.
   - Refer to 'readme' and 'Protocol.pdf' for more details on the program.
   
