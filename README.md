@@ -11,7 +11,7 @@
   - Run SNUPI and analyze the results.
   - Refer to 'readme' and 'Protocol.pdf' for more details on the program.
   
-# Procedure (mac)
+# Procedure (mac, linux)
   - Modify 'Input.txt' to indicate a cadnano design file and options.
   - Execute SNUPI as ./run_SNUPI.sh <matlab_runtime_directory>
   - Analyze the results.
