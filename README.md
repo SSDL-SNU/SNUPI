@@ -20,3 +20,10 @@
 # Please cite the following paper when SNUPI is used.
   - Rapid Computational Analysis of DNA Origami Assemblies at Near-Atomic Resolution, ACS Nano (2021)
   - https://pubs.acs.org/doi/full/10.1021/acsnano.0c07717
+
+# Update
+  - v1.01
+    * Command running for multiple designs (see protocol.pdf)
+    * Support for mac and linux OS
+    * Modification of miscellaneous errors
+    
