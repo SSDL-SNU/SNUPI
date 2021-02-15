@@ -16,13 +16,14 @@
   - In the 'Input.txt' file, <lattice_type> and <file_directory> should be written.
   - (In terminal) To give a permission to execute, chmod +x *
   - (In terminal) Execute SNUPI in the FILE folder, ./run_SNUPI.sh <matlab_runtime_directory>
+  - GUI mode is not supported.
   - Refer to 'readme' and 'Protocol.pdf' for more details on the program.
   
 # Please cite the following paper when SNUPI is used.
   - Rapid Computational Analysis of DNA Origami Assemblies at Near-Atomic Resolution, ACS Nano (2021)
   - https://pubs.acs.org/doi/full/10.1021/acsnano.0c07717
 
-# Update
+# Updates
   - v1.01
     * Support for commandline execution (see protocol.pdf)
     * Support for mac and linux OS
