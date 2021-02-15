@@ -23,7 +23,7 @@
 
 # Update
   - v1.01
-    * Command running for multiple designs (see protocol.pdf)
-    * Support for mac and linux OS
+    * Support of command-run for multiple designs (see protocol.pdf)
+    * Support of mac and linux OS
     * Modification of miscellaneous errors
     
