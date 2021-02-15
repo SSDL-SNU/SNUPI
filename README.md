@@ -14,11 +14,8 @@
 # Procedure (mac, linux)
   - Modify 'Input.txt' in the FILE folder to indicate a design file.
   - In the 'Input.txt' file, <lattice_type> and <file_directory> should be written.
-  - To give a permission to execute
-  	$ chmod +x *
-  - Execute SNUPI in the FILE folder
-	$ ./run_SNUPI.sh <matlab_runtime_directory>
-  - Analyze the results.
+  - (In terminal) To give a permission to execute, chmod +x *
+  - (In terminal) Execute SNUPI in the FILE folder, ./run_SNUPI.sh <matlab_runtime_directory>
   - Refer to 'readme' and 'Protocol.pdf' for more details on the program.
   
 # Please cite the following paper when SNUPI is used.
