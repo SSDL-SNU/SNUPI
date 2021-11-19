@@ -2,7 +2,7 @@
   Structured Nucleic Acids Programming Interface is a multiscale analysis framework for nucleic acid nanostructures based on the finite element model with the geometric and mechanical properties of DNA characterized by molecular dynamics simulation.  
 
 # Updates
-  - v2.00
+  - v2.00 (2021/11/19)
     * Wireframe and topologically-closed circular design can be analyzed directly from caDNAno input files.
     * Analysis results can be exported in the oxDNA input file format.
     * The model for the single-stranded DNA part is improved.
