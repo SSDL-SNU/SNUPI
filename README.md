@@ -4,6 +4,7 @@
 # Updates
   - v2.00 (2021/11/19)
     * Wireframe and topologically-closed circular design can be analyzed directly from caDNAno input files.
+        <img src="https://user-images.githubusercontent.com/61811152/142971014-18acfed2-6eab-4378-a5a2-c41b72337fad.png" width="60%" height="60%">
     * Analysis results can be exported in the oxDNA input file format.
     * The model for the single-stranded DNA part is improved.
   - v1.01
