@@ -1,6 +1,8 @@
 # SNUPI
   Structured Nucleic Acids Programming Interface is a multiscale analysis framework for the design of nucleic acid nanostructures. It is based on the finite element model where the geometric and mechanical properties of structural DNA motifs are thoroughly characterized by molecular dynamics simulation.  
 # Updates
+  - v2.01 (2022/01/18)
+    * Several errors were fixed.
   - v2.00 (2021/11/19)
     * Wireframe and topologically-closed circular design can be analyzed directly from caDNAno input files.
         <img src="https://user-images.githubusercontent.com/61811152/142971014-18acfed2-6eab-4378-a5a2-c41b72337fad.png" width="60%" height="60%">
