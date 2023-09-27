@@ -7,15 +7,17 @@
 	* Restarting simulations
 	* GPU acceleration
   - v2.01 (2022/01/18)
-    * Minor errors were fixed.
+	* Minor error fix
   - v2.00 (2021/11/19)
-    * Wireframe or topologically-closed designs can be analyzed.
-    * Analysis results can be exported in the oxDNA input file format.
-    * The model for the single-stranded DNA part is improved.
-  - v1.01
-    * Support for command line execution (see protocol.pdf)
-    * Support for mac and linux
-    * Modification of miscellaneous errors
+	* Analysis of wireframe or topologically-closed designs
+	* export of the oxDNA input file format.
+	* Improved modeling of the single-stranded DNA
+  - v1.01 (2021/02/23)
+	* Support for command line execution (see protocol.pdf)
+	* Support for mac and linux
+	* Minor error fix
+  - v1.00 (2021/01/07)
+	* Initial upload
 
 # Prerequisite
   - The correct version of the MATLAB Runtime should be installed.
