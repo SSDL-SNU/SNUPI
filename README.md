@@ -1,5 +1,5 @@
 # SNUPI
-  Structured Nucleic Acids Programming Interface is a multiscale analysis framework.
+  Structured Nucleic Acids Programming Interface is a multiscale analysis framework for the prediction of structured DNA assemblies.
 
 # Updates
   - v3.00 (2023/09/27)
