@@ -24,7 +24,7 @@
   - v3: Runtime version R2022b (9.13)
   - v2: Runtime version R2019a (9.6)
   - v1: Runtime version R2019a (9.6)
-  - Download link: "http://www.mathworks.com/products/compiler/mcr/index.html".
+  - Download link: http://www.mathworks.com/products/compiler/mcr/index.html
 
 # Technical details
   - SNUPI framework (static analysis): Rapid computational analysis of DNA origami assemblies at near-atomic resolution, ACS Nano 15.1 (2021), https://pubs.acs.org/doi/full/10.1021/acsnano.0c07717
