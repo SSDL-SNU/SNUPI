@@ -3,23 +3,25 @@
 
 
 # Updates
-  - v3.01 (2024/01/24)
+  - v3.10 (2024-07-29)
+	* EtBr-binding simulations
+  - v3.01 (2024-01-24)
 	* Minor error fix
-  - v3.00 (2023/09/27)
+  - v3.00 (2023-09-27)
 	* Dynamic simulations
 	* Restarting simulations
 	* GPU acceleration
-  - v2.01 (2022/01/18)
+  - v2.01 (2022-01-18)
 	* Minor error fix
-  - v2.00 (2021/11/19)
+  - v2.00 (2021-11-19)
 	* Analysis of wireframe or topologically-closed designs
 	* export of the oxDNA input file format.
 	* Improved modeling of the single-stranded DNA
-  - v1.01 (2021/02/23)
+  - v1.01 (2021-02-23)
 	* Support for command line execution (see protocol.pdf)
 	* Support for mac and linux
 	* Minor error fix
-  - v1.00 (2021/01/07)
+  - v1.00 (2021-01-07)
 	* Initial upload
 
 
