@@ -77,7 +77,8 @@
   - SNUPI framework (static analysis): Rapid computational analysis of DNA origami assemblies at near-atomic resolution, ACS Nano (2021), https://doi.org/10.1021/acsnano.0c07717
   - Improved model of single-stranded DNA: Characterizing and harnessing the mechanical properties of short single-stranded DNA in structured assemblies, ACS Nano (2021), https://doi.org/10.1021/acsnano.1c08861
   - Partition and relocation framework (free-form structures): Predicting the free-form shape of structured DNA assemblies from their lattice-based design blueprint, ACS Nano (2022), https://doi.org/10.1021/acsnano.1c10347
-  - Langevin dynamics simulation: A computational model for structural dynamics and reconfiguration of DNA assemblies, Nature Communications (2023), https://doi.org/10.1038/s41467-023-42873-4
+  - Langevin dynamics simulations: A computational model for structural dynamics and reconfiguration of DNA assemblies, Nature Communications (2023), https://doi.org/10.1038/s41467-023-42873-4
   - Graph neural network (Deep SNUPI): Prediction of DNA origami shape using graph neural network, Nature Materials (2024), https://doi.org/10.1038/s41563-024-01846-8
+  - EtBr-binding simulations: Predicting the effect of binding molecules on the shape and mechanical properties of structured DNA assemblies, Nature Communications (2023), https://doi.org/10.1038/s41467-024-50871-3
   
   
